@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/104/trunk/KahuuFotos/src/kahuuFotos/interfaz
+END
+DialogoVerFoto.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/KahuuFotos/src/kahuuFotos/interfaz/DialogoVerFoto.java
+END
+InterfazKahuuImagenes.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/104/trunk/KahuuFotos/src/kahuuFotos/interfaz/InterfazKahuuImagenes.java
+END
+DialogoAgregarFoto.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/71/trunk/KahuuFotos/src/kahuuFotos/interfaz/DialogoAgregarFoto.java
+END
+PanelMisFotos.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/KahuuFotos/src/kahuuFotos/interfaz/PanelMisFotos.java
+END
+PanelEstados.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/93/trunk/KahuuFotos/src/kahuuFotos/interfaz/PanelEstados.java
+END
+PanelSimilares.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/KahuuFotos/src/kahuuFotos/interfaz/PanelSimilares.java
+END
+PanelMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/93/trunk/KahuuFotos/src/kahuuFotos/interfaz/PanelMenu.java
+END
+ImageFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/KahuuFotos/src/kahuuFotos/interfaz/ImageFilter.java
+END
+PanelDescargas.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/KahuuFotos/src/kahuuFotos/interfaz/PanelDescargas.java
+END
+PanelBusqueda.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/93/trunk/KahuuFotos/src/kahuuFotos/interfaz/PanelBusqueda.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/109/trunk/KahuuFotos/src/kahuuFotos/threads2
+END
+ThreadServidorDescargaImagen.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/93/trunk/KahuuFotos/src/kahuuFotos/threads2/ThreadServidorDescargaImagen.java
+END
+ThreadClienteDescargas.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/109/trunk/KahuuFotos/src/kahuuFotos/threads2/ThreadClienteDescargas.java
+END
+ThreadManejoDescarga.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/109/trunk/KahuuFotos/src/kahuuFotos/threads2/ThreadManejoDescarga.java
+END
+ThreadClienteDescargasIncompletas.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/93/trunk/KahuuFotos/src/kahuuFotos/threads2/ThreadClienteDescargasIncompletas.java
+END

@@ -1,0 +1,129 @@
+10
+
+dir
+111
+https://kahuufotos.googlecode.com/svn/trunk/KahuuFotos
+https://kahuufotos.googlecode.com/svn
+
+
+
+2012-04-26T00:18:46.643801Z
+111
+gustil@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e36150c5-86c0-71d6-07ed-e15f064ff6bd
+
+.classpath
+file
+
+
+
+
+2012-04-15T20:13:05.000000Z
+8538549e344700ee45c7f6d79bcdaebc
+2012-03-20T05:53:16.547801Z
+3
+kedavidsa@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1017
+
+.jxta
+dir
+
+.project
+file
+
+
+
+
+2012-04-15T20:13:05.000000Z
+3b4b6dd75cc1af4af9b7a3950ca4209a
+2012-03-20T05:53:16.547801Z
+3
+kedavidsa@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+369
+
+.settings
+dir
+
+bin
+dir
+
+data
+dir
+
+descargas
+dir
+
+docs
+dir
+
+imagenesPrueba
+dir
+
+lib
+dir
+
+misFotos
+dir
+
+src
+dir
+
+tmp
+dir
+
